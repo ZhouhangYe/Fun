@@ -54,9 +54,9 @@ SEC_Filing_Scraper/
 │-- script.py
 │-- README.md
 │-- error_log.txt
-│-- Data CIK Book.csv/
-│   ├── Book2.xlsx (input file with CIKs)
-│   ├── E:/sec_table/ (downloaded filings stored here)
+│-- Data/
+│   ├── Data CIK Book.xlsx (input file with CIKs)
+│   ├── :/sec_table/ (downloaded filings stored here)
 ```
 
 ## Notes
